@@ -8,7 +8,7 @@ hero:
   text: 极小且零依赖的 JavaScript 颜色库
   tagline: 用于各种颜色的转换和生成色阶
   image:
-    src: https://raw.gitmirror.com/mop233/chroma/main/docs/public/logo.svg'
+    src: https://raw.gitmirror.com/mop233/chroma/main/docs/public/logo.svg
   actions:
     - theme: brand
       text: 快速开始

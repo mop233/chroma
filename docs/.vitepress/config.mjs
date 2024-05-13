@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/chroma/',
   title: 'Chroma.js',
   description: '极小且零依赖的 JavaScript 颜色库',
-  head: [['link', { rel: 'icon', href: '/chroma/logo.svg' }]],
+  head: [['link', { rel: 'icon', href: 'https://raw.gitmirror.com/mop233/chroma/main/docs/public/logo.svg' }]],
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
