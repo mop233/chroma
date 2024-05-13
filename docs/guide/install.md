@@ -6,8 +6,6 @@ aside: false
 import chroma from 'chroma-js'
 
 const color = chroma('#D4F880').darken().hex()
-
-console.log(color)
 </script>
 
 # 安装使用
